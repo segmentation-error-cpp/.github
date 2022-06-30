@@ -1,6 +1,5 @@
 <div align="center">
-    <img src="logo.jpeg" height="150px">
-    <h1>Segmentation Error</h1>
+    <img src="./cover.png" width="100%">
 </div>
 
 We are group of developers with idea of creating tools and better enviroments for developers. We
