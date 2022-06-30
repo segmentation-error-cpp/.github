@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./cover.png" width="100%">
+    <img src="https://github.com/segmentation-error-cpp/.github/blob/gh-pages/profile/cover.png" width="100%">
 </div>
 
 We are group of developers with idea of creating tools and better enviroments for developers. We
