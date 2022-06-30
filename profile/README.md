@@ -10,6 +10,8 @@ working in web, mobile and some embended development. We working on tools, which
 * [Basic template](https://github.com/segmentation-error-cpp/template-repo)
 * Python
   * [Basic](https://github.com/segmentation-error-cpp/python-template)
+* SvelteKit
+  * [Basic](https://github.com/segmentation-error-cpp/sveltekit-template)
 
 ## Our project
 
